@@ -1,4 +1,3 @@
-# sinnytrivedi
 # Hi, I'm Sinny
 
 **Physicist working at the meeting point of nanomaterials, data and science communication.**
