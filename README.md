@@ -25,7 +25,7 @@ Lab work gave me a lot of raw data and a lot of opinions about cleaning it. I'm 
 
 <img src="nano-portrait.png" width="400" alt="A portrait of a woman's face carved into a hafnia film with an AFM tip, 5 µm scale bar">
 
-I was trying to scratch circular electrodes onto a hafnia film with an AFM tip at the Conway Institute, and the diamond tip just wouldn't behave. So I took a break and drew a face instead. After that, the electrodes started coming out fine. The whole portrait is narrower than a human hair. (My entry to the UCD Research Images Competition, September 2025.)
+As a visiting researcher in the Nanoscale Function Group at UCD Conway Institute, I was trying to scratch circular electrodes onto a hafnia film with an AFM tip, and the diamond tip just wouldn't behave. So I took a break and drew a face instead. After that, the electrodes started coming out fine. The whole portrait is narrower than a human hair. (My entry to the UCD Research Images Competition, September 2025.)
 
 **Nano-Constellation: AFM data through an AI/ML lens** ([code](https://github.com/sinnytrivedi/nano-constellation))
 
