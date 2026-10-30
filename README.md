@@ -8,7 +8,7 @@ So I spend my time between nanotubes and 9 to 12 year-olds, and honestly the two
 
 ### Interesting things I've been working on lately
 
-As a postdoctoral researcher in the UCD School of Physics, I spent my time watching carbon nanotubes line up in an electric field and then slowly drift back to random once the field is off. Different-sized tubes do this at different speeds, and that difference tells you something about their shape without having to destroy the sample. I presented this at Electroceramics XX in Novi Sad, Serbia, this October, and I'm continuing the work as an Adjunct Fellow in the same group, writing it up as a paper.
+As a postdoctoral researcher in the UCD School of Physics, I spent my time watching carbon nanotubes line up in an electric field and then slowly drift back to random once the field is off. Different-sized tubes do this at different speeds, and that difference tells you something about their shape without having to destroy the sample. I presented this at **Electroceramics XX in Novi Sad, Serbia, this October**, and I'm continuing the work as an Adjunct Fellow in the same group, writing it up as a paper.
 
 - **Carbon nanotube electro-optics:** a non-destructive method for probing the aspect ratio and anisotropy of multi-walled carbon nanotubes, using AC-field alignment and Brownian relaxation tracked by transmitted light
 - **Nanoscale characterisation:** conductive AFM analysis for energy materials at UCD Conway Institute, including FeNiB electrocatalysts (*Sustainable Energy & Fuels*, 2024)
